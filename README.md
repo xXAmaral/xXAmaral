@@ -20,4 +20,7 @@
    <a href="https://www.instagram.com/amaral_trll" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://web.whatsapp.com/55984231488" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="mailto:amaral.gustavo281@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  ![Snake animation](https://github.com/xXAmaral/xXAmaral/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
