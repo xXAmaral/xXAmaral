@@ -21,6 +21,6 @@
    <a href="https://web.whatsapp.com/55984231488" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
    <a href="mailto:amaral.gustavo281@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/xXAmaral/xXAmaral/blob/output/github-contribution-grid-snake.svg)
+  ![PacMan animation](https://github.com/xXAmaral/xXAmaral/blob/output/github-contribution-grid-pacman.svg)
   
 </div>
